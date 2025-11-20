@@ -80,15 +80,9 @@
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=MehtabSingh3711&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=MehtabSingh3711&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabSingh3711&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MehtabSingh3711&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=MehtabSingh3711&theme=tokyonight&hide_border=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabSingh3711&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-## 🔥 Custom GitHub Contribution Heatmap  
-
-
 ## 🐍 Animated GitHub Contribution Heatmap Snake
 
 <picture>
@@ -97,16 +91,20 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/MehtabSingh3711/MehtabSingh3711/main/output/snake-light.svg">
 </picture>
 
+---
+## 📈 Contribution Graph
 
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MehtabSingh3711&theme=tokyo-night)
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![](https://github-profile-trophy.vercel.app/?username=MehtabSingh3711&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MehtabSingh3711&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache=1)
 
 ---
+
+
 
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
