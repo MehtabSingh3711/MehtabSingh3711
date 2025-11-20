@@ -8,7 +8,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,18 +15,23 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
-      - name: Generate Snake
+      - name: Generate Snake (Dark + Light)
         uses: Platane/snk@v3
         with:
           github_user_name: MehtabSingh3711
           outputs: |
-            ./output/github-contribution-grid-snake.svg
+            ./output/snake-dark.svg?palette=github-dark
+            ./output/snake-light.svg?palette=github-light
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add output/github-contribution-grid-snake.svg
+          git add output/snake-dark.svg output/snake-light.svg
           git commit -m "Update snake animation" || echo "No changes"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
