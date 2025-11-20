@@ -25,7 +25,7 @@ jobs:
       - name: Generate Heatmap
         run: |
           mkdir -p generated
-          github-heatmap --user MehtabSingh3711 --output generated/heatmap.svg --theme dark
+          github-heatmap --user MehtabSingh3711 --output generated/heatmap.svg --theme tokyo-night
 
       - name: Commit Files
         run: |
