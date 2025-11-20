@@ -6,6 +6,12 @@
 
 ---
 
+## 🌐 Socials  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___m.e.h.t.a.b___)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mehtab-singh/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehtabbhangal3711@gmail.com)
+
+---
+
 ## 🧠 About Me  
 - BTech CSE student at **Lovely Professional University**  
 - Specializing in **AI & Data Engineering**  
@@ -80,6 +86,30 @@
 
 ---
 
+## 🔥 Custom GitHub Contribution Heatmap  
+
+<p align="center">
+  <img src="./generated/heatmap.svg" alt="Custom GitHub Heatmap"/>
+</p>
+<style>
+@keyframes fadePulse {
+  0%   { opacity: 0.2; transform: scale(0.98); }
+  50%  { opacity: 1; transform: scale(1.02); }
+  100% { opacity: 0.2; transform: scale(0.98); }
+}
+
+.heatmap-anim {
+  animation: fadePulse 4s ease-in-out infinite;
+}
+</style>
+
+<p align="center">
+  <img class="heatmap-anim" src="./generated/heatmap.svg" width="750px">
+</p>
+
+
+---
+
 ## 🏆 GitHub Trophies  
 
 ![](https://github-profile-trophy.vercel.app/?username=MehtabSingh3711&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -93,12 +123,6 @@
 
 ## 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=MehtabSingh3711&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🌐 Socials  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___m.e.h.t.a.b___)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mehtab-singh/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehtabbhangal3711@gmail.com)
 
 ---
 
