@@ -88,23 +88,11 @@
 
 ## 🔥 Custom GitHub Contribution Heatmap  
 
-<p align="center">
-  <img src="./generated/heatmap.svg" alt="Custom GitHub Heatmap"/>
-</p>
-<style>
-@keyframes fadePulse {
-  0%   { opacity: 0.2; transform: scale(0.98); }
-  50%  { opacity: 1; transform: scale(1.02); }
-  100% { opacity: 0.2; transform: scale(0.98); }
-}
 
-.heatmap-anim {
-  animation: fadePulse 4s ease-in-out infinite;
-}
-</style>
+## 🐍 Animated GitHub Contribution Heatmap Snake
 
 <p align="center">
-  <img class="heatmap-anim" src="./generated/heatmap.svg" width="750px">
+  <img src="https://raw.githubusercontent.com/MehtabSingh3711/MehtabSingh3711/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
